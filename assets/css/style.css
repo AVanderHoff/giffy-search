@@ -1,0 +1,16 @@
+
+button{border:1px solid #ffff00;
+	   color: #ffff00;
+	   background-color:#000066;
+	   margin: 10px;
+}
+
+button.show{float:left;}
+
+#align{text-align: center;}
+
+#button-area{height:100px;}
+
+div.img-div{float:left;
+			margin:5px;
+}
